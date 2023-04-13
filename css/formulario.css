@@ -1,0 +1,14 @@
+body{ 
+    background-color: rgb(161, 240, 161);
+}
+
+.FAsistencia{
+    text-align: center;
+    border: 5px
+}
+
+.InicioForm{
+    font-size: 30px;
+    text-align: center;
+}
+
